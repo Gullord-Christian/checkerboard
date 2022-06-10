@@ -1,0 +1,26 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0px auto;
+}
+.container {
+    height: 50px;
+    width: 300px;
+    background-color: rgb(24, 116, 62);
+    border-radius: 10px;
+    margin-top: 20px;
+}
+h1 {
+    text-align: center;
+    color: rgb(3, 161, 201);
+}
+.color1 {
+    background-color: rgb(3, 161, 201);
+}
+.color2 {
+    background-color: rgb(24, 116, 62);
+}
+
+table tr td {
+    height: 50px;
+    width: 50px;
+}
